@@ -5,7 +5,7 @@
 > [VIP](https://github.com/DeadSwimek/cs2-vip), [VIP Premium](https://github.com/DeadSwimek/cs2-vip-premium), [SpecialRounds](https://github.com/DeadSwimek/cs2-specialrounds), [Countdown](https://github.com/DeadSwimek/cs2-countdown), [CTBans](https://github.com/DeadSwimek/cs2-ctban), [HideAdmin](https://github.com/DeadSwimek/cs2-hideadmin)
 > [New Gift Collector!](https://github.com/DeadSwimek/cs2-gifts)
 
-[Preview](https://madgames.eu/Invisible.gif)
+##[✨Preview of plugin](https://madgames.eu/Invisible.gif)
 
 **PREMIUM VERSION https://github.com/DeadSwimek/cs2-vip-premium** / [MY DISCORD SERVER](https://discord.gg/WNK777rhwg)
 > If you wanna you can support me on this link - **https://www.paypal.com/paypalme/deadswim**
